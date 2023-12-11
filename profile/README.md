@@ -1,1 +1,1 @@
-The Silva shell is a personal project, implementing a shell and the GNU utilities in rust.
+fey is a fast and reliable username scanner written in rust.
